@@ -31,10 +31,10 @@ I am an undergraduate at Shanghai Jiao Tong University. My fields of interest in
 
 ### Skills & Honors
 
-+ Zhiyuan Honors Program of Engineering (Top 5\%) Scholarship 19-20
++ Zhiyuan Honors Program of Engineering (Top 5%) Scholarship 19-20
 
-+ Zhiyuan Honors Program of Engineering (Top 5\%) Scholarship 20-21
++ Zhiyuan Honors Program of Engineering (Top 5%) Scholarship 20-21
 
-+ Zhiyuan Honors Program of Engineering (Top 5\%) Scholarship 21-22
++ Zhiyuan Honors Program of Engineering (Top 5%) Scholarship 21-22
 
 + TOEFL iBT Test Score: 113/120 (Reading: 30/30, Listening: 29/30, Speaking: 26/30, Writing: 28/30)
