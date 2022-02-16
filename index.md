@@ -21,6 +21,10 @@ I am an undergraduate at Shanghai Jiao Tong University. My fields of interest in
 
 ### Research
 
-[1] Taxi repositioning using multi-agent offline reinforcement learning, carried out at Didi Chuxing, supervised by Prof. Weinan Zhang, Dr. Xiaocheng Tang and Dr. Zhiwei Qin
+[1] **internship** Taxi repositioning using offline multi-agent reinforcement learning, carried out at Didi Chuxing, supervised by Prof. Weinan Zhang, Dr. Xiaocheng Tang and Dr. Zhiwei Qin
 
+[2] **internship** Metal flaw detection using YOLO, carried at Shanghai Telecom, supervised by Dr. Dingtian Yan
 
+[3] **course project** Imitation learning using PPO, which captures the motions from real dogs and apply them to the simulator using Pybullet
+
+[4] **course project** Speech recognition for navigation, filling in slot-value pairs to extract specific actions from the given sentences
