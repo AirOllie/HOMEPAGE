@@ -14,6 +14,8 @@ Address: No.800, Dongchuan Rd, Shanghai, China
 
 I am an undergraduate at Shanghai Jiao Tong University. My fields of interest include machine learning, reinforcement learning, robotics and natural language processing. As a junior student, however, I am open to any research topic that is interesting or promising. I am currently doing research at APEX suoervised by Prof. Weinan Zhang. Here's my [cv](https://github.com/AirOllie/oliversong.github.com/files/8077264/Song-Qingyang-cv.pdf).
 
+Some researchers try to explain how deep learning works by finding the basic components of the given data (e.g. the connection between different parts of an object for an image-based task), but I argue that the key to general AI lies in the harmonious combination of all senses, like vision, audio and touch. And what I want to say is that, just as the pre-trained models are doing today, all we need for understanding the world is just a more delicate form of statistical model, one that can freely understand one sense and convert it into another. I want to build a model that takes in all forms of inputs and grasps whatever the knowledge; a machine that makes a sequence of correct choices even if the current situation has never been fully observed before, and throught all of these, towards a more genralized understanding of the world for computers.
+
 ### Education
 
 2016-2019 Shanghai High School
