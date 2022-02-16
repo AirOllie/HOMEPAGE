@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Qingyang Song
 
-You can use the [editor on GitHub](https://github.com/AirOllie/oliversong.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Undergraduate, Shanghai Jiao Tong University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact
 
-### Markdown
+Email: air_ollie@sjtu.edu.cn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Phone: +86 133 912 764 86
 
-```markdown
-Syntax highlighted code block
+Address: No.800, Dongchuan Rd, Shanghai, China
 
-# Header 1
-## Header 2
-### Header 3
+### About me
 
-- Bulleted
-- List
+I am an undergraduate at Shanghai Jiao Tong University. My fields of interest include machine learning, reinforcement learning, robotics and natural language processing. As a junior student, however, I am open to any research topic that is interesting or promising. I am currently doing research at APEX suoervised by Prof. Weinan Zhang. Here's my [cv](https://github.com/AirOllie/oliversong.github.com/files/8077264/Song-Qingyang-cv.pdf).
 
-1. Numbered
-2. List
+### Education
 
-**Bold** and _Italic_ and `Code` text
+2016-2019 Shanghai High School
+2019-2023 B.S. Shanghai Jiao Tong University
 
-[Link](url) and ![Image](src)
-```
+### Research
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[1] Taxi repositioning using multi-agent offline reinforcement learning, carried out at Didi Chuxing, supervised by Prof. Weinan Zhang, Dr. Xiaocheng Tang and Dr. Zhiwei Qin
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AirOllie/oliversong.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
